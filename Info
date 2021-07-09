@@ -1,0 +1,52 @@
+Textfight
+
+Chest Info:
+The goodness scale:
+(No stars) = Trash
+* = Basic
+** = Rare
+*** = Ultimate
+**** = Treasure
++ = Completely random
+
+    Basic chest - *
+    Contains at least:
+        1x Sword
+        1x Power up
+    Have a chance of:
+        + 1x Power up
+
+    Rare chest - **
+    Contains at least:
+        1x Sword
+        2x Power ups
+    Have a chance of:
+        + 1x Power up
+        + 1x Shield
+
+    Ultimate chest - ***
+    Contains at least:
+        1x Sword
+        1x Shield
+        2x Power ups
+    Have a chance of:
+        + 2x Power up
+        + 1x Shield
+        + 1x Armor
+        + 1x Mega power up
+
+    Treasure chest - ****
+    Contains at least:
+        1x Sword
+        2x Power ups
+        1x Shield
+        1x Armor
+    Have a chance of:
+        + 2x Power up
+        + 1x Mega power up
+
+    Unexpected chest - +
+    Contains at least:
+        1x Powerup
+    Have a chance of:
+        Everything else
